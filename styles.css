@@ -1,0 +1,42 @@
+/* div {
+    font-size: 20px;
+    color: white; 
+    background-color: black;
+}
+p {
+    color:orange;                
+} */
+
+/* header div {
+    font-size: 20px;
+    color: white; 
+    background-color: black;
+}
+
+header p {
+    color:orange;                
+} */
+
+.logostyle {
+    font-size: 20px;
+    color: white; 
+    background-color: black;
+}
+
+
+.profileimage{
+    border-radius: 200px;
+    box-shadow: 0 25px 25px rgba(0, 0, 0, 0.5);
+}
+
+.footerstyle{
+    border-radius: 20px;
+    background-color: bisque;
+    color: red;
+    border: 1px solid black;
+    box-shadow: 0 25px 25px rgba(0, 0, 0, 0.5);
+}
+ 
+
+
+
